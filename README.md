@@ -1,2 +1,2 @@
-# property_poral
+# property_portal
 Customer portal for property buyers to track property development progress, upload and view documents, receive updates and communicate with the developer.
